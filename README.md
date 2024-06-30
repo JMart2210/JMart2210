@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PropFolio, a real estate investor dashboard**
 
-- 📫 How to reach me **jeremy@leveredge.dev**
+- 📫 How to reach me **jeremy@blndhomes.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
