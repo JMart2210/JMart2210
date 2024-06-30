@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">A software engineer from florida</h3>
 
 - 🔭 I’m currently working on **PropFolio, a real estate investor dashboard**
 
