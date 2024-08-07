@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 
-- 🔭 I use this as a journal of sorts to look back on past personal hobby projects and learning to code. Check out my pinned directories for a few fun projects. They're not technically difficult, but I'm proud of the little details I implemented in each one. 
+- 🔭 I use this as a journal of sorts to look back on past personal hobby projects. My goal now is to transition to a corporate IT position with an eye on Cyber Security. So look for new pinned directories with some of the home labs I'm working on!
+
+- You can also check out my other pinned directories for a few fun projects. They're not technically difficult, but I'm proud of the little details I implemented in each one. 
 
 - 📫 How to reach me **jeremy@blndhomes.com**
 
