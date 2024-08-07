@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 
-- 🔭 I’m currently working on **PropFolio, a real estate investor dashboard**
+- 🔭 I use this as a journal of sorts to look back on past personal hobby projects and learning to code. Check out my pinned directories for a few fun projects. They're not technically difficult, but I'm proud of the little details I implemented in each one. 
 
 - 📫 How to reach me **jeremy@blndhomes.com**
 
